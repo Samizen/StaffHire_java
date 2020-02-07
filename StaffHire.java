@@ -1,3 +1,4 @@
+
 class StaffHire{
     private int vacancyNumber;
     private String designation;
