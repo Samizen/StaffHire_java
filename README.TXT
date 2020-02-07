@@ -29,7 +29,7 @@ the corresponding parameter values. Additionally, in the constructor, assign sta
 name, joining date, qualification and appointed by as an empty string, joined
 status is initialized to false.
 Each attribute has a corresponding accessor method.
-5
+
 A method is required to set the salary as changes to salary inevitably occur. The
 method accepts a new salary as a parameter and, if the staff has not joined yet,
 the new value is assigned to the salary attribute. If the staff is already appointed,
